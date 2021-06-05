@@ -1,4 +1,6 @@
 ## Welcome to Lab 9
 This lab involved no direct coding, but was focused on us working through the GitHub Release Based Workflow course.
 
-Due to the nature of this lab, lab files will be found within the project 7 submission on canvas.
+The files from the online course can be found here:
+
+[Lab-09](https://bassguitarben.github.io/cit281-lab9/lab9.zip)
